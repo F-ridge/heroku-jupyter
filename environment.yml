@@ -18,3 +18,6 @@ dependencies:
   - pip:
     - pgcontents
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
+    - numpy
+    - pandas
+    - scikit-learn
